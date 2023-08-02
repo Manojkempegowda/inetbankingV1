@@ -1,0 +1,2 @@
+C:\Users\User\eclipse-workspace\InetbankingV1
+mvn clean install
