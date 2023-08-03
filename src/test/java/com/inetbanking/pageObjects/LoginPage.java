@@ -37,7 +37,7 @@ public class LoginPage {
     }
     public void clicksubmit()
     {
-    	txtusername.click();
+    	btnLogin.click();
     }
     
 }
